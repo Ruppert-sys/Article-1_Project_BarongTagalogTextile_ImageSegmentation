@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>gui/assets/barong_bg2.png</file>
+    <file>gui/assets/barong_bg.png</file>
+  </qresource>
+</RCC>
